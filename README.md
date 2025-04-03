@@ -17,19 +17,27 @@ But Codemancer can grow however you like - feel free to personalize it, expand i
 
 ## 💻 How to run
 
-1. Clone the repository:
+1. Open a terminal (like Git Bash or Command Prompt).
+
+2. Navigate to the folder where you want to place the project:
+
+```
+cd your/desired/path
+```
+
+3. Clone the repository:
 
 ```
 git clone https://github.com/AndreeaSofia/codemancer.git
 ```
 
-2. Open a terminal (like Git Bash or Command Prompt) and navigate to your project folder:
-
+4. Move into the project folder:
+   
 ```
 cd codemancer
 ```
 
-3. Run the wizard:
+5. Run the wizard:
 
 ```
 python wizard.py
