@@ -6,7 +6,7 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "setu
 from setup.python_setup import check_python, check_pip
 from setup.git_setup import check_git
 from setup.vscode_setup import check_vscode_cli
-from setup.installer_utils import check_tool, prompt_open_url  # ✅ FIXED
+from setup.installer_utils import check_tool, prompt_open_url
 
 def main():
     print("\n🧙 Welcome to the Codemancer Wizard!")
