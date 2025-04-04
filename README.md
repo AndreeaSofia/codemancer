@@ -6,7 +6,7 @@
 
 ## ✨ What is Codemancer?
 
-Codemancer is a simple, modular Python script that checks if the core tools of a programming environment are installed (Python, pip, Git, and VS Code CLI) and gently helps you install them if not.
+**Codemancer** is a simple, modular Python script that checks if the core tools of a programming environment are installed (Python, pip, Git, and VS Code CLI) and gently helps you install them if not.
 
 These are the tools I started my own journey with.
 
