@@ -13,6 +13,9 @@ These are the tools I started my own journey with.
 I just wanted to make something small that might’ve helped _me_ when I was first getting started.
 But Codemancer can grow however you like - feel free to personalize it, expand it, or pass it on to someone else at the start of theirs.
 
+> 💬 Looking for an easy-to-use cheat sheet to go along with it?  
+> Check out [Spellbook](https://github.com/AndreeaSofia/spellbook.sh) — a terminal-native helper I built to store the most useful commands I kept forgetting.
+
 ---
 
 ## 💻 How to run
